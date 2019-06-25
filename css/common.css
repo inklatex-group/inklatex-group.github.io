@@ -1,0 +1,31 @@
+.header{
+    margin: 20px auto;
+    display: block;
+    height: 100px;
+
+}
+.logo{
+    height: 100px;
+    width: 100px;
+    display: block;
+    margin: 5px auto;
+
+    position: absolute;
+}
+.logo_img{
+    height: 100px;
+    width: 100px;
+    display: block;
+    margin: 0%;
+
+}
+.title_text{
+    margin-left: 120px;
+    position: absolute;
+}
+.fl{
+    float: left;
+}
+.fn{
+    float: none;
+}
