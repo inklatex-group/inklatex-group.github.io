@@ -6,3 +6,6 @@ The InkLaTeX group is mantained by two maintainers,[Moyan Liang](https://github.
 We presently have two products:
 - [InkPaper](pages/inkpaper.md);
 - InkBook.
+
+You could also check out our announcements [here](pages/announcements.md).
+$$e^{i\pi}+1=0.$$
